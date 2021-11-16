@@ -1,1 +1,1 @@
-# Coding_ninjas_CP
+# Coding_ninjas_Comptetive coding course
